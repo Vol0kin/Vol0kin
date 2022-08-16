@@ -4,7 +4,7 @@ I'm Vladislav. Nice to meet you! Here you can find some information about me:
 
 - :triangular_ruler: I have a Bachelor's Degree in Computer Science and a Master's Degree in Data Science.
 - :technologist: Currently I'm working as a Software Engineer developing multiplatform mobile applications.
-- :rocket: I'm interested in AI general and its applications.
+- :rocket: I'm interested in AI in general and its applications.
 - :seedling: At the moment I'm interested in learning and/or deepening my knowledge in the following subjects:
   + Tensorflow
   + PyTorch
